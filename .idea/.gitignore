@@ -1,3 +1,7 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+my_bot.session
+my_bot.session-journal
+/bot/_pychache_/
+login.py

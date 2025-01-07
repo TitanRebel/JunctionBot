@@ -1,0 +1,16 @@
+login.py
+my_bot.session
+my_bot.session-journal
+bot/__pycache__/__init__.cpython-311.pyc
+bot/__pycache__/__main__.cpython-311.pyc
+__pycache__/config.cpython-311.pyc
+user_session.session
+bot/plugins/__pycache__/forward.cpython-311.pyc
+bot/plugins/__pycache__/get_chats.cpython-311.pyc
+bot/plugins/__pycache__/settings.cpython-311.pyc
+bot/plugins/__pycache__/start.cpython-311.pyc
+bot/utils/__pycache__/__init__.cpython-311.pyc
+bot/utils/__pycache__/forward_message.cpython-311.pyc
+bot/working_dir/tasks.json
+__pycache__/login.cpython-311.pyc
+user_session.session-journal
